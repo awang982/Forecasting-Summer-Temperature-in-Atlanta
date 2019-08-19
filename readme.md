@@ -7,7 +7,7 @@ Contents
 
 Step 1 - Plotting time series data
 
-Step 2 - use Holt Winters filtering
+Step 2 - Use Holt Winters filtering
 
 Step 3 - Performing smoothing with cusum
 
